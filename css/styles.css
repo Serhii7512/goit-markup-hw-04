@@ -411,5 +411,14 @@ img {
   color: #fff;
   margin-bottom: 16px;
 }
+.social-link-list-footer {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
+.social-link-footer:hover,
+.social-link-footer:focus {
+  background-color: #31d0aa;
+}
 
 /* footer end */
